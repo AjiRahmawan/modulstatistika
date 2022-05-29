@@ -1,0 +1,21 @@
+@font-face {
+	font-family: tulisan_keren;
+	src: url(BonheurRoyale-Regular.ttf);
+}
+h1{
+	font-family: 'tulisan_keren';
+	font-size: 40pt;
+	font-variant: inherit;
+}
+body {
+ background: linear-gradient(orange, #ec38bc, #7303c0, cyan);   
+}
+.table1 {
+	font-family: sans-serif;
+	color: #232323;
+	border-collapse: collapse;
+}
+.table1, th, td {
+	border: 1px solid #999;
+	padding: 8px 20px;
+}
